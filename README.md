@@ -1,5 +1,5 @@
 # EndKrypter
-Endcrypter is a simple Encryption and Decryption tool written fully in C for Windows platforms.
+EndKrypter is a simple Encryption and Decryption tool written fully in C for Windows platforms.
 
 The program i created, named ENDkrypter, implements a variety of encoding and decoding methods aimed at protecting personal messages. Its functionality is based on various encoding methods, such as ASCII, Caesar, Vigenere, binary, base64, AES, and SHA-256, giving the user the option to choose.
 
