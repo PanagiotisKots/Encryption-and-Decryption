@@ -120,7 +120,6 @@ Feel free to open issues and submit pull requests for new features, bug fixes, o
 
 
 
-
 ## 🛠️ **Technologies & Tools Used**
 
 EndKrypter was created using the following programming languages, technologies, and tools:
@@ -129,12 +128,11 @@ EndKrypter was created using the following programming languages, technologies, 
 ![C](https://skillicons.dev/icons?i=c)
 
 ### 🛡️ **Technologies**
-![OpenSSL](https://skillicons.dev/icons?i=openssl)
+![OpenSSL (alt)](https://img.icons8.com/color/48/000000/lock--v1.png) <!-- Alternative icon for OpenSSL -->
 
 ### 🧰 **Tools**
 ![GCC](https://skillicons.dev/icons?i=gnu)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Windows](https://skillicons.dev/icons?i=windows)
-
 
 
