@@ -72,7 +72,7 @@ Follow the steps below to compile and run **EndKrypter** on your Windows system:
 
 To run the compiled program, use the following command:
 
-```bash
+
 <FILENAME>.exe
 
 
