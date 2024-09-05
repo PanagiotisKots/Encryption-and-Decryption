@@ -43,8 +43,6 @@ Each method allows users to encrypt or decrypt messages in different ways, makin
 
 
 
-
-
 ## 🛠️ **Setup Instructions**
 
 Follow the steps below to compile and run **EndKrypter** on your Windows system:
@@ -56,31 +54,27 @@ Follow the steps below to compile and run **EndKrypter** on your Windows system:
 
 ### 2️⃣ Compilation
 
-Open a command prompt and navigate to the directory where the `ENDKRYPTER.c` file is stored.
+1. Open a command prompt and navigate to the directory where the `ENDKRYPTER.c` file is stored.
 
-Run the following command:
+2. Run the following command to compile the program:
 
+    ```bash
+    gcc -o <filename_to_be_saved_as>.exe <filename>.c -I"\path\to\Openssl\include" -L"\path\to\openssl\lib" -lssl -lcrypto
+    ```
 
-gcc -o <filename\to\be\saved\as>.exe <filename>.c -I"\path\to\Openssl\include" -L"\path\to\openssl\lib" -lssl -lcrypto
+    🔧 **Example**:
 
-🔧 Example:
+    ```bash
+    gcc -o ENDKRYPTER.exe ENDKRYPTER.c -I"C:\Program Files\OpenSSL-Win64\include" -L"C:\Program Files\OpenSSL-Win64\lib\VC\x64\MTd" -lssl -lcrypto
+    ```
 
-bash
+### 3️⃣ Execution
 
-gcc -o ENDKRYPTER.exe ENDKRYPTER.c -I"C:\Program Files\OpenSSL-Win64\include" -L"C:\Program Files\OpenSSL-Win64\lib\VC\x64\MTd" -lssl -lcrypto
+To run the compiled program, use the following command:
 
-3️⃣ Execution
-
-To run the program, use:
-
-bash
-
+```bash
 <FILENAME>.exe
 
-css
-
-
-This markdown preserves the emoji-based steps and proper code formatting, making the instructi
 
 
 
