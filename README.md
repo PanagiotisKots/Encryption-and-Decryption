@@ -108,4 +108,18 @@ Feel free to open issues and submit pull requests for new features, bug fixes, o
 
 
 
+| **Method**         | **Usage**                                          | **Advantages**                                      | **Complexity**                                              | **Decoding Difficulty**           |
+|--------------------|----------------------------------------------------|----------------------------------------------------|-------------------------------------------------------------|-----------------------------------|
+| 🅰️ **ASCII**        | Character-to-number encoding/decoding              | Simple to implement and fast                       | Basic conversion, no real encryption                         | 🟢 **Easy**: Direct reverse mapping |
+| 🏛️ **Caesar Cipher**| Shifts characters by a fixed number of positions   | Easy to understand, good for basic encryption      | Vulnerable to frequency analysis attacks                     | 🟢 **Easy**: Can be brute-forced easily|
+| 🔑 **Vigenere**     | Shifts characters based on a repeating keyword     | Stronger than Caesar due to varying shifts         | More secure than Caesar, but key repetition can be exploited  | 🟠 **Moderate**: Key length and frequency analysis |
+| 💾 **Binary**       | Converts message into binary representation        | Universal encoding, compact for machine processing | Direct translation of data, simple encoding                  | 🟢 **Easy**: Reverse conversion from binary to text |
+| 🔢 **Base64**       | Encodes binary data into ASCII string format       | Efficient for transmitting binary data             | Not real encryption, used mainly for encoding                | 🟢 **Easy**: Decoded using standard Base64 decoding |
+| 🛡️ **AES**          | Symmetric key encryption, widely used              | Highly secure, fast decryption with the key        | Computationally efficient, secure against most attacks       | 🔴 **Hard**: Requires the key; virtually unbreakable without it |
+| 🧩 **SHA-256**      | Cryptographic hashing, irreversible                | Ensures data integrity, secure one-way function    | Irreversible hash, secure but susceptible to brute force on short inputs | 🔴 **Impossible**: One-way function, cannot be decoded |
+
+
+
+
+
 
