@@ -119,20 +119,19 @@ Feel free to open issues and submit pull requests for new features, bug fixes, o
 | 🧩 **SHA-256**      | Cryptographic hashing, irreversible                | Ensures data integrity, secure one-way function    | Irreversible hash, secure but susceptible to brute force on short inputs | 🔴 **Impossible**: One-way function, cannot be decoded |
 
 
-
 ## 🛠️ **Technologies & Tools Used**
 
 EndKrypter was created using the following programming languages, technologies, and tools:
 
-### 🔧 **Languages**
-![C](https://skillicons.dev/icons?i=c)
-
-### 🛡️ **Technologies**
-![OpenSSL (alt)](https://img.icons8.com/color/48/000000/lock--v1.png) <!-- Alternative icon for OpenSSL -->
-
-### 🧰 **Tools**
-![GCC](https://skillicons.dev/icons?i=gnu)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Windows](https://skillicons.dev/icons?i=windows)
+| **Category** | **Icon** | **Description**                        |
+|--------------|----------|----------------------------------------|
+| **Languages** | ![C](https://skillicons.dev/icons?i=c) | C programming language                   |
+| **Technologies** | ![OpenSSL](https://img.icons8.com/color/48/000000/lock--v1.png) | OpenSSL for cryptographic operations     |
+| **Compilers** | ![GCC](https://img.icons8.com/ios/50/000000/gcc.png) | GCC for compiling (alternative icon)     |
+| **Editors** | ![VSCode](https://skillicons.dev/icons?i=vscode) | Visual Studio Code for development        |
+| **Operating System** | ![Windows](https://skillicons.dev/icons?i=windows) | Windows as the operating environment      |
+| **Build Tools** | ![Make](https://skillicons.dev/icons?i=make) | Make for build automation                 |
+| **Version Control** | ![Git](https://skillicons.dev/icons?i=git) | Git for version control                   |
+| **Package Management** | ![NPM](https://skillicons.dev/icons?i=npm) | NPM for managing dependencies (optional)  |
 
 
