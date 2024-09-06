@@ -132,7 +132,6 @@ EndKrypter was created using the following programming languages, technologies, 
 
 
 
-
 my_openssl_project/
 ├── src/
 │   ├── main.c
@@ -148,4 +147,5 @@ my_openssl_project/
 └── lib/
     ├── libcrypto.a
     └── libssl.a
+
 
