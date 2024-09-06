@@ -114,10 +114,6 @@ EndKrypter was created using the following programming languages, technologies, 
 | **Version Control** | ![Git](https://skillicons.dev/icons?i=git) | Git for version control                   |
 
 
-
-# Image gallery
-
-<img src = "img/img1.jpg">
-<img src = "img/img2.jpg">
-
-<img src = "img/img4.jpg">
+| ![Image 1](img/img1.jpg) | ![Image 2](img/img2.jpg) | ![Image 3](img/img4.jpg) |
+|--------------------------|--------------------------|--------------------------|
+| 📸 Image 1               | 📸 Image 2               | 📸 Image 3               |
