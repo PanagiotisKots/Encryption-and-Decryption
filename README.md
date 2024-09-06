@@ -1,6 +1,6 @@
 # 🔐 **EndKrypter**
 
-<img src = "img/img1">
+<img src = "img/img1.jpg">
 **EndKrypter** is a simple **Encryption** and **Decryption** tool written entirely in C for **Windows** platforms.
 
 ## ⚙️ **Overview**
