@@ -47,7 +47,7 @@ Each method allows users to encrypt or decrypt messages in different ways, makin
 
 Follow the steps below to compile and run **EndKrypter** on your Windows system:
 
-### 1️⃣ Install Dependencies
+### 1️⃣ Install Dependencies (if plan to contribute)
 
 - 📦 **OpenSSL**: Install the full OpenSSL package.
 - 🔨 **GCC-G++ Compiler**: Install **MINGW** to set up the compilation environment.
