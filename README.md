@@ -1,9 +1,6 @@
 # 🔐 **EndKrypter**
-
-<img src = "img/img1.jpg">
-<img src = "img/img2.jpg">
 <img src = "img/img3.jpg">
-<img src = "img/img4.jpg">
+
 **EndKrypter** is a simple **Encryption** and **Decryption** tool written entirely in C for **Windows** platforms.
 
 ## ⚙️ **Overview**
@@ -118,3 +115,9 @@ EndKrypter was created using the following programming languages, technologies, 
 
 
 
+# Image gallery
+
+<img src = "img/img1.jpg">
+<img src = "img/img2.jpg">
+
+<img src = "img/img4.jpg">
