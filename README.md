@@ -111,6 +111,6 @@ EndKrypter was created using the following programming languages, technologies, 
 | **Operating System** | ![Windows](https://skillicons.dev/icons?i=windows) | Windows as the operating environment      |
 | **Build Tools** | ![Make](https://skillicons.dev/icons?i=make) | Make for build automation                 |
 | **Version Control** | ![Git](https://skillicons.dev/icons?i=git) | Git for version control                   |
-| **Package Management** | ![NPM](https://skillicons.dev/icons?i=npm) | NPM for managing dependencies (optional)  |
+
 
 
