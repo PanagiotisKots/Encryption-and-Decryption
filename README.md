@@ -129,22 +129,3 @@ EndKrypter was created using the following programming languages, technologies, 
 | **Package Management** | ![NPM](https://skillicons.dev/icons?i=npm) | NPM for managing dependencies (optional)  |
 
 
-
-
-my_openssl_project/<br>
-├── src/<br>
-│   ├── main.c<br>
-│   ├── module1.c<br>
-│   ├── module2.c<br>
-│   ├── menus.c<br>
-│   └── menus.h<br>
-├── include/<br>
-│   ├── openssl/<br>
-│   │   ├── crypto.h<br>
-│   │   ├── ssl.h<br>
-│   │   └── other_openssl_headers.h<br>
-└── lib/<br>
-    ├── libcrypto.a<br>
-    └── libssl.a<br>
-
-
