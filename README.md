@@ -53,12 +53,12 @@ Follow the steps below to compile and run **EndKrypter** on your Windows system:
 - 🔨 **GCC-G++ Compiler**: Install **MINGW** to set up the compilation environment.
 
 
-###2️⃣ Execution
+### 2️⃣ Execution
 
 To run the compiled program, use the following command:
 
 
-<FILENAME>.exe
+ EndKrypterV2.exe
 
 
 
