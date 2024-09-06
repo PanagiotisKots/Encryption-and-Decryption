@@ -52,23 +52,8 @@ Follow the steps below to compile and run **EndKrypter** on your Windows system:
 - 📦 **OpenSSL**: Install the full OpenSSL package.
 - 🔨 **GCC-G++ Compiler**: Install **MINGW** to set up the compilation environment.
 
-### 2️⃣ Compilation
 
-1. Open a command prompt and navigate to the directory where the `ENDKRYPTER.c` file is stored.
-
-2. Run the following command to compile the program:
-
-    ```bash
-    gcc -o <filename_to_be_saved_as>.exe <filename>.c -I"\path\to\Openssl\include" -L"\path\to\openssl\lib" -lssl -lcrypto
-    ```
-
-    🔧 **Example**:
-
-    ```bash
-    gcc -o ENDKRYPTER.exe ENDKRYPTER.c -I"C:\Program Files\OpenSSL-Win64\include" -L"C:\Program Files\OpenSSL-Win64\lib\VC\x64\MTd" -lssl -lcrypto
-    ```
-
-### 3️⃣ Execution
+###2️⃣ Execution
 
 To run the compiled program, use the following command:
 
